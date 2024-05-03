@@ -1,0 +1,7 @@
+nama database : - hotel.sql
+user name : - Admin
+password  : - 1234
+
+masuk ke web : http://localhost/Hotel/
+
+admin : http://localhost/Hotel/admin/profit.php
